@@ -45,7 +45,8 @@ def format_result(entries):
 
     return result
 
-DATASET_FILE = 'nationalparks.json'
+#DATASET_FILE = 'nationalparks.json'
+DATASET_FILE = 'mcdonalds.json'
 
 dataset = []
 
